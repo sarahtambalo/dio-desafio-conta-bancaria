@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "main.java.terminal.Main",
+            "projectName": "dio-desafio-conta-bancaria_a21cab22"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-desafio-conta-bancaria_a21cab22"
+        }
+        {
+            "type": "java",
+            "name": "DadosCliente",
+            "request": "launch",
+            "mainClass": "DadosCliente",
+            "projectName": "dio-desafio-conta-bancaria_a21cab22"
+        }
+    ]
+}
